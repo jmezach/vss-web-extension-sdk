@@ -13,6 +13,7 @@
     "extensions",
     "visual studio online"
   ],
+  "main": "./lib/VSS.SDK.min.js",
   "types": "./typings/index.d.ts",
   "author": "vsalmopen",
   "license": "MIT",
