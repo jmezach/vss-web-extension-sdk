@@ -2,10 +2,10 @@
 // Project: https://www.visualstudio.com/integrate/extensions/overview
 // Definitions by: Microsoft <vsointegration@microsoft.com>
 
-   /// <reference path='../../../typings/knockout/knockout.d.ts' />
-   /// <reference path='../../../typings/jquery/jquery.d.ts' />
-   /// <reference path='../../../typings/q/q.d.ts' />
-   /// <reference path='../../../typings/requirejs/require.d.ts' />
+   /// <reference types='knockout' />
+   /// <reference types='jquery' />
+   /// <reference types='q' />
+   /// <reference types='requirejs' />
 
 //----------------------------------------------------------
 // Common interfaces specific to WebPlatform area

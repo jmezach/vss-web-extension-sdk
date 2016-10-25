@@ -23,5 +23,11 @@
   "jspm": {
     "main": "lib/VSS.SDK",
     "format": "global"
+  },
+  "dependencies": {
+    "@types/jquery": "^2.0.33",
+    "@types/knockout": "^3.4.36",
+    "@types/q": "0.0.30",
+    "@types/requirejs": "^2.1.28"
   }
 }
